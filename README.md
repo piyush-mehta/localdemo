@@ -1,5 +1,3 @@
-# VHL QA Automation
-
 **VHL QA Automation** is an functional testing framework that can be used to test VHL Site across a combination of different browsers and platforms.
 
 # VHL Central
@@ -8,7 +6,8 @@
 ## Getting started
 
 #### Pre-requisites
-1.NodeJS [Download](https://nodejs.org/en/download/)
+1.[Download](http://www.oracle.com/technetwork/java/javase/downloads/index.html) Java SDK (min Java7)
+2.[Download](https://nodejs.org/en/download/) NodeJS
 
 #### Installation
 1. `$ git clone https://github.com/comprodls/<vhl-qa-automation-repo-name>`
