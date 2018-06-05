@@ -14,11 +14,8 @@
 2. `$ npm install`
 
 #### Test Execution
-1. **Environment Variables**
+1. Environment Variables
     1. *VHL_CENTRAL_TEST_ENVIRONMENT*: VHL Application Environment that needs to be tested.
-        1. Possible Values: 'qa' |'staging' |'production'
-        2. Default value: 'qa'
-2. Run test
-```sh
-$ npm test
-```
+        1. Possible Values: 'qa' | 'staging' | 'production'
+        2. Default: 'qa'
+2. `$ npm test`
