@@ -16,5 +16,5 @@
 #### Test Execution
 1. Run nightwatch test command to execute tests
 ```sh
-$ nightwatch tests\e2e\login.js
+$ nightwatch tests\e2e\login.spec.js
 ```
