@@ -6,8 +6,8 @@
 ## Getting started
 
 #### Pre-requisites
-1.[Download](http://www.oracle.com/technetwork/java/javase/downloads/index.html) Java SDK (min Java7)
-2.[Download](https://nodejs.org/en/download/) NodeJS
+1. [Download](http://www.oracle.com/technetwork/java/javase/downloads/index.html) Java SDK (min Java7)
+2. [Download](https://nodejs.org/en/download/) NodeJS
 
 #### Installation
 1. `$ git clone https://github.com/comprodls/<vhl-qa-automation-repo-name>`
