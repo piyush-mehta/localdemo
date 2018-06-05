@@ -1,3 +1,5 @@
+# VHL QA Automation
+
 **VHL QA Automation** is an functional testing framework that can be used to test VHL Site across a combination of different browsers and platforms.
 
 # VHL Central
