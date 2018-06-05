@@ -7,28 +7,14 @@
 
 ![VHL Logo](https://assets.maestro.vhlcentral.com/assets/vhl-logo-a7d95265f4cf8ebb5e7ee0098b335e67b3c0e27520adcab6f859cb0e480bbc36.gif)
 
-
-## Framework Features
-* Page Objects
-* Different browsers & platforms
-* Test execution in cloud
-* HTML Test Reports which can be presented to stakeholders
-* ...
-* <This is phase 1 feature list>
-
-
-## Framework setup
+## Getting started
 
 #### Pre-requisites
-1. Git (min version ???). [Download](https://git-scm.com/downloads)
-    1. Check git version by executing `$ git --version` in command prompt
-2. NodeJS (min version ??) [Download](https://nodejs.org/en/download/)
-    1. Check nodejs version by executing `$ node -v` in command prompt
+1.NodeJS [Download](https://nodejs.org/en/download/)
 
 #### Installation
-1. Clone Automation Framework [Repo](https://github.com/comprodls/tests-functional.git)
-2. Go to clones repo directory
-3. Do `$ npm install` to download all dependencies in local
+1. `$ git clone https://github.com/comprodls/<vhl-qa-automation-repo-name>`
+2. `$ npm install`
 
 #### Test Execution
 1. Run nightwatch test command to execute tests
