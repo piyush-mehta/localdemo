@@ -1,11 +1,8 @@
 # VHL QA Automation
 
-[![VHL Central License](http://img.shields.io/badge/license-VHL%20QA-blue.svg)](https://vistahigherlearning.com/privacy-policy)
-
-
 **VHL QA Automation** is an functional testing framework that can be used to test VHL Site across a combination of different browsers and platforms.
 
-![VHL Logo](https://assets.maestro.vhlcentral.com/assets/vhl-logo-a7d95265f4cf8ebb5e7ee0098b335e67b3c0e27520adcab6f859cb0e480bbc36.gif)
+## [VHL Central](https://www-1.qa2.vhlcentral.com)
 
 ## Getting started
 
