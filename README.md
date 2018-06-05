@@ -18,4 +18,7 @@
     1. *VHL_CENTRAL_TEST_ENVIRONMENT*: VHL Application Environment that needs to be tested.
         1. Possible Values: 'qa' | 'staging' | 'production'
         2. Default: 'qa'
-2. `$ npm test`
+2. Run node command
+```
+$ npm test
+```
